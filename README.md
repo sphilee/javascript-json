@@ -1,6 +1,3 @@
-# javascript-json
-레벨2
-```
 *test1*
 thisParser: 84.098ms
 builtInParser: 12.788ms
